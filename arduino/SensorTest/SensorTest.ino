@@ -1,4 +1,3 @@
-#include <LiquidCrystal.h>
 #include <DHT.h>
 
 #define DHTPIN 7
