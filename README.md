@@ -10,7 +10,7 @@ Testing was done on Windows 11 and Manjaro Linux(Vulcan 23.1.3)
 6. Click the arrow going to the right to upload the file to the board
 	1. Missing Library
 		1. Either point the IDE to the library folder in this repo (File->Preferences and changed sketchbook location to arduino/SensorTest)
-		2. Or install the DHT sensor library by Adafruit (Sketch->Include Library->Manage Libraries, or hit the books on the left, and search for "DHT sensor library")![[Images/Pasted image 20240219150026.png]]
+		2. Or install the DHT sensor library by Adafruit (Sketch->Include Library->Manage Libraries, or hit the books on the left, and search for "DHT sensor library")![](<Images/Pasted image 20240219150026.png>)
 	2. Linux device permission denied
 		1. Add the current user to either the dialout or uucp group depending on your distrobution and restart
 7. After that is finished you can open Serial Monitor which is located in the top right to see the output from the board.
@@ -24,7 +24,7 @@ Testing was done on Windows 11 and Manjaro Linux(Vulcan 23.1.3)
 4. Use Control + C to stop the process(Or Command + Shift + C on mac)
 # Output
 ## Arduino
-![[Images/Pasted image 20240219141851.png]]
+![](<Images/Pasted image 20240219141851.png>)
 ## Web
-![[Images/Screenshot 2024-02-19 142050.png]]
-![[Images/Pasted image 20240219142306.png]]
+![](<Images/Screenshot 2024-02-19 142050.png>)
+![](<Images/Pasted image 20240219142306.png>)
